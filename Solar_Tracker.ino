@@ -4,7 +4,7 @@
 // GitHub   : https://github.com/danibae006
 // Repo     : https://github.com/danibae006/dual-axis-solar-tracker
 //
-// For wiring & connections, visit the repo
+// For wiring & connections, visit the repo (https://github.com/danibae006/dual-axis-solar-tracker)
 // above and read the README file.
 // It contains full wiring diagrams,
 // component list, and setup instructions.
